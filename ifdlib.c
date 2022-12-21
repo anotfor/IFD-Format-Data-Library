@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include "ystrlib.h"
-#include "mf.h"
 
 char * readkey(FILE *stream, char * keyname) {
 	char tlist[256];
